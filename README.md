@@ -1,4 +1,12 @@
-# Matlab Project 2
+# PageRank
+
+## Scopul algoritmului
+
+**PageRank** este un algoritm de analiza a hiperlegaturilor din Internet, folosit
+de motorul de cautare Google pentru a acorda o pondere fiecarui element
+dintr-o multime  de  documente  interconectate  prin  hiperlegaturi,  cu  scopul
+masurarii importantei relative in cadrul multimii.
+
 ### TASK 1 - Iterative Algorithm:
 In functia "Iterative" am citit numarul de noduri din fisierul de input si
 am creat apoi 2 matrici A si K, matricea de adiacenta respectiv matricea diagonala
